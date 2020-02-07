@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.ZipLine.csproj", "Algorithm.ZipLine\Algorithm.ZipLine.csproj", "{89EF6E3D-3685-4901-8D6A-BFF37F9F7F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.ZipLine", "Test.ZipLine\Test.ZipLine.csproj", "{8C7EF88C-AF44-4CDC-9D45-CD2CFD1E8679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EF6E3D-3685-4901-8D6A-BFF37F9F7F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EF6E3D-3685-4901-8D6A-BFF37F9F7F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EF6E3D-3685-4901-8D6A-BFF37F9F7F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EF6E3D-3685-4901-8D6A-BFF37F9F7F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7EF88C-AF44-4CDC-9D45-CD2CFD1E8679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7EF88C-AF44-4CDC-9D45-CD2CFD1E8679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7EF88C-AF44-4CDC-9D45-CD2CFD1E8679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7EF88C-AF44-4CDC-9D45-CD2CFD1E8679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7090CAD5-5447-433C-83D3-DBD033D3C5BA}
+	EndGlobalSection
+EndGlobal
